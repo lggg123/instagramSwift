@@ -25,6 +25,7 @@
 		D42760042791C80500E7617F /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42760032791C80500E7617F /* SearchViewController.swift */; };
 		D42760062791C81F00E7617F /* SearchResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42760052791C81F00E7617F /* SearchResultViewController.swift */; };
 		D42760082791C86D00E7617F /* PostEditorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42760072791C86D00E7617F /* PostEditorViewController.swift */; };
+		D427600A2791CC0400E7617F /* PublicPostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42760092791CC0400E7617F /* PublicPostViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,8 @@
 		D42760032791C80500E7617F /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		D42760052791C81F00E7617F /* SearchResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultViewController.swift; sourceTree = "<group>"; };
 		D42760072791C86D00E7617F /* PostEditorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostEditorViewController.swift; sourceTree = "<group>"; };
+		D42760092791CC0400E7617F /* PublicPostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PublicPostViewController.swift; sourceTree = "<group>"; };
+		D427600B2791CF0E00E7617F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,7 @@
 		D4275FC7278C863700E7617F = {
 			isa = PBXGroup;
 			children = (
+				D427600B2791CF0E00E7617F /* README.md */,
 				D4275FD2278C863700E7617F /* IGClone */,
 				D4275FD1278C863700E7617F /* Products */,
 			);
@@ -163,6 +167,7 @@
 				D42760032791C80500E7617F /* SearchViewController.swift */,
 				D42760052791C81F00E7617F /* SearchResultViewController.swift */,
 				D42760072791C86D00E7617F /* PostEditorViewController.swift */,
+				D42760092791CC0400E7617F /* PublicPostViewController.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -259,6 +264,7 @@
 				D4275FF4278CD9B100E7617F /* ProfileViewController.swift in Sources */,
 				D42760082791C86D00E7617F /* PostEditorViewController.swift in Sources */,
 				D4275FD6278C863700E7617F /* SceneDelegate.swift in Sources */,
+				D427600A2791CC0400E7617F /* PublicPostViewController.swift in Sources */,
 				D4275FFE2791C7AA00E7617F /* EditProfileViewController.swift in Sources */,
 				D4275FF0278C9C7A00E7617F /* CameraViewController.swift in Sources */,
 			);
