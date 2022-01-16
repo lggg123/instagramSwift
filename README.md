@@ -1,5 +1,5 @@
 # Instagram Clone
-## Any Questions email me at [mailto](mailto:rails_dev@codengine.org)
+## Any Questions email me at [rails_dev@codengine.org](mailto:rails_dev@codengine.org)
 ## Description
 ### This is a clone of Instagram using Swift 5 and iOS 15. The best way to start this project would be to clone the repo and open it in xcode. Throughout the project we will create branches to checkout to show specific things to do and how to build this app using this README without encountering any issues.
 ### I have always had trouble with using a README or documentation to code an app and it discouraged me to do so for a while due to many personal problems that encouraged me to take an "easier" route but led to my downfall. Due to this I will make it my best try to be able to produce a README with no issues and allow developers to easily learn how to build apps, understand what is behind it, and give people enough confidence to work hard and get a job. 
